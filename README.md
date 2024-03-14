@@ -91,6 +91,6 @@ GIT REMOTE
 
 2. KESIMPULAN
 
-       Dengan adanya git remote, seseorang dapat membuat dan mengelola git repository baik secara lokal maupun remote.
+       Git remote adalah fitur yang memungkinkan kita berinteraksi dengan repositori remote dari repositori lokal kita. Dalam pengembangan perangkat lunak, kita sering bekerja dengan repositori yang berada di server jarak jauh, seperti GitHub, GitLab, atau Bitbucket dan membuat kita lebih mudah untuk berkerja dalam tim.
    
    
